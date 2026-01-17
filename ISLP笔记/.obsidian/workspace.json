@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_统计学习核心/08_非线性模型/局部回归.md",
+                "file": "99_资源文件/统计学习核心名词速查表.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "局部回归"
+              "title": "统计学习核心名词速查表"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_统计学习核心/08_非线性模型/局部回归.md",
+                "file": "99_资源文件/统计学习核心名词速查表.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "局部回归 的大纲"
+              "title": "统计学习核心名词速查表 的大纲"
             }
           },
           {
@@ -195,10 +195,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "31c5fd8aa2a6dcb9",
+  "active": "9cc22c7f81b38519",
   "lastOpenFiles": [
-    "未命名.md",
+    "20_Python算法实现/Statsmodels与Sklearn对比.md",
+    "10_统计学习核心/01_基础概念/参数与非参数方法.md",
+    "10_统计学习核心/01_基础概念/监督学习.md",
     "10_统计学习核心/08_非线性模型/局部回归.md",
+    "未命名.md",
     "10_统计学习核心/08_非线性模型/回归样条.md",
     "10_统计学习核心/08_非线性模型/非线性模型概论.md",
     "10_统计学习核心/08_非线性模型/多项式回归与阶梯函数.md",
@@ -208,7 +211,6 @@
     "10_统计学习核心/08_非线性模型",
     "20_Python算法实现/Matplotlib 绘图框架详解.md",
     "10_统计学习核心/未命名.md",
-    "20_Python算法实现/Statsmodels与Sklearn对比.md",
     "20_Python算法实现/Statsmodels_GLM配置指南.md",
     "20_Python算法实现/Pandas 数据预处理.md",
     "20_Python算法实现/NumPy数组操作详解.md",
@@ -222,8 +224,6 @@
     "20_Python算法实现/Bootstrap实战.md",
     "10_统计学习核心/03_线性回归体系/共线性与VIF.md",
     "99_资源文件/统计学习核心名词速查表.md",
-    "10_统计学习核心/01_基础概念/主成分分析（待后期完善）.md",
-    "10_统计学习核心/07_线性模型选择与正则化/模型选择指标.md",
     "未命名.base",
     "数据库节点关系_20260116_192843.txt",
     "数据库详细信息_20260116_192843.txt",

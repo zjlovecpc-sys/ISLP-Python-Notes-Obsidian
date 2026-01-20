@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Python算法实现/非线性模型实战.md",
+                "file": "10_统计学习核心/09_树模型/贝叶斯加性回归树BART.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "非线性模型实战"
+              "title": "贝叶斯加性回归树BART"
             }
           }
         ]
@@ -198,13 +198,23 @@
   },
   "active": "9721a9f5c6b45932",
   "lastOpenFiles": [
+    "10_统计学习核心/09_树模型/升法Boosting.md",
+    "10_统计学习核心/09_树模型/贝叶斯加性回归树BART.md",
+    "10_统计学习核心/09_树模型/装袋法与随机森林.md",
+    "10_统计学习核心/09_树模型/未命名 1.md",
+    "10_统计学习核心/09_树模型/未命名.md",
+    "10_统计学习核心/09_树模型/树的剪枝.md",
+    "10_统计学习核心/09_树模型/决策树基础.md",
     "20_Python算法实现/非线性模型实战.md",
+    "10_统计学习核心/09_树模型",
+    "00_Inbox/deep-research-thinking-20260120-155617.md",
+    "20_Python算法实现/子集选择与逐步回归实战.md",
+    "20_Python算法实现/Statsmodels与Sklearn对比.md",
     "未命名 2.base",
     "未命名 1.base",
     "未命名.canvas",
     "未命名.base",
     "20_Python算法实现/交叉验证实战.md",
-    "20_Python算法实现/Statsmodels与Sklearn对比.md",
     "99_资源文件/统计学习核心名词速查表.md",
     "10_统计学习核心/06_重采样方法/留一法交叉验证.md",
     "10_统计学习核心/03_线性回归体系/最小二乘法.md",
@@ -220,21 +230,11 @@
     "10_统计学习核心/03_线性回归体系/预测区间与置信区间.md",
     "10_统计学习核心/08_非线性模型",
     "20_Python算法实现/Matplotlib 绘图框架详解.md",
-    "10_统计学习核心/未命名.md",
-    "20_Python算法实现/Statsmodels_GLM配置指南.md",
-    "20_Python算法实现/Pandas 数据预处理.md",
-    "20_Python算法实现/NumPy数组操作详解.md",
-    "20_Python算法实现/KNN_sklearn实现.md",
-    "20_Python算法实现/子集选择与逐步回归实战.md",
-    "20_Python算法实现/逻辑回归与判别分析实现.md",
-    "20_Python算法实现/等高线图与热图.md",
-    "20_Python算法实现/线性回归_statsmodels实现.md",
     "数据库节点关系_20260116_192843.txt",
     "数据库详细信息_20260116_192843.txt",
     "数据库目录_20260116_192843.txt",
     "数据库索引.base",
     "scan_result_20260116_191428.txt",
-    "scan_result_20260116_191400.txt",
     "Pasted image 20260114195639.png",
     "旧版/05_附件/Pasted image 20260113112918.png",
     "05_附件/Pasted image 20260113112918.png"
